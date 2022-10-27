@@ -18,6 +18,7 @@ class _HomePageState extends State<HomePage> {
     setState(() {
       loading = true;
     });
+    await Future.delayed(const Duration(milliseconds: 600));
   }
 
   @override
