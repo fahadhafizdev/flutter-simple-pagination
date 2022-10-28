@@ -131,7 +131,7 @@ class _HomePageState extends State<HomePage> {
               page2 = false;
               setState(() {});
             },
-            child: Icon(Icons.menu),
+            child: const Icon(Icons.menu),
           ),
           const SizedBox(width: 12),
           GestureDetector(
@@ -140,7 +140,7 @@ class _HomePageState extends State<HomePage> {
               page2 = true;
               setState(() {});
             },
-            child: Icon(Icons.menu_book),
+            child: const Icon(Icons.menu_book),
           ),
           const SizedBox(width: 12),
         ],
