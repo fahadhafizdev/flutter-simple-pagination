@@ -124,7 +124,7 @@ class _HomePageState extends State<HomePage> {
       appBar: AppBar(
         title: Text('Simple Pagination'),
         actions: [
-          SizedBox(width: 12),
+          const SizedBox(width: 12),
           GestureDetector(
             onTap: () {
               page1 = true;
@@ -133,7 +133,7 @@ class _HomePageState extends State<HomePage> {
             },
             child: Icon(Icons.menu),
           ),
-          SizedBox(width: 12),
+          const SizedBox(width: 12),
           GestureDetector(
             onTap: () {
               page1 = false;
@@ -142,7 +142,7 @@ class _HomePageState extends State<HomePage> {
             },
             child: Icon(Icons.menu_book),
           ),
-          SizedBox(width: 12),
+          const SizedBox(width: 12),
         ],
       ),
       body: (items.isNotEmpty)
