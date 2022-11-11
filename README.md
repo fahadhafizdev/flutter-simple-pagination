@@ -1,10 +1,8 @@
 # flutter_simple_pagination
 
-A new Flutter project.
+this is a simple flutter pagination
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
