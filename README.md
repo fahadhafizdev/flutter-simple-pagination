@@ -1,6 +1,6 @@
 # flutter_simple_pagination
 
-this is a simple flutter pagination
+this is a simple flutter pagination no state management
 
 ## Getting Started
 
