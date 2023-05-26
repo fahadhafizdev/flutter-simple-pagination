@@ -1,6 +1,6 @@
 # flutter_simple_pagination
 
-this is a simple flutter pagination no state management
+this is a simple flutter pagination no state management can use for getx or cubit state
 
 ## Getting Started
 
